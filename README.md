@@ -2,6 +2,7 @@
 
 ### 🏏 Cricket Auction Simulator
 </div>
+
 ### Experience the High-Stakes Thrill of a T20 Auction
 
 ### Build your dream squad. Outbid your rivals. Manage your purse.
