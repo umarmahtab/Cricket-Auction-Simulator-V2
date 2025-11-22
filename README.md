@@ -18,6 +18,7 @@ Whether you are hosting a fun event with friends or just testing your management
 
 ## 📸 Screenshots
 
+<div align="center">
 ### Main Dashboard
 
 <div align="center">
