@@ -28,7 +28,7 @@ Whether you are hosting a fun event with friends or just testing your management
 
 <br />
 
-Setup & Teams
+### Setup & Teams
 
 <div align="center">
 <img src="./assets/TeamScreen.png" alt="Team Setup" width="45%" />
@@ -37,7 +37,7 @@ Setup & Teams
 
 <br />
 
-Game Phases
+### Game Phases
 
 <div align="center">
 <img src="./assets/RetentionPhase.png" alt="Retention Phase" width="45%" />
@@ -46,7 +46,7 @@ Game Phases
 
 <br />
 
-Auction Action
+### Auction Action
 
 <div align="center">
 <img src="./assets/Bid.png" alt="Live Bidding" width="45%" />
@@ -55,7 +55,7 @@ Auction Action
 
 <br />
 
-Management
+### Management
 
 <div align="center">
 <img src="./assets/PlayerDatabase.png" alt="Player Database" width="90%" />
