@@ -18,7 +18,7 @@ Whether you are hosting a fun event with friends or just testing your management
 
 ## 📸 Screenshots
 
-Main Dashboard
+### Main Dashboard
 
 <div align="center">
 <img src="./assets/MainDashboard.png" alt="Main Dashboard" width="90%" />
