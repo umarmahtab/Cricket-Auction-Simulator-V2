@@ -1,6 +1,6 @@
 <div align="center">
 
-🏏 Cricket Auction Simulator
+### 🏏 Cricket Auction Simulator
 
 Experience the High-Stakes Thrill of a T20 Auction
 
