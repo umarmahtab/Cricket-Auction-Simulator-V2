@@ -10,13 +10,13 @@ Report Bug • Request Feature
 
 </div>
 
-📖 About The Project
+## 📖 About The Project
 
 Cricket Auction Simulator is a feature-packed, single-page web application designed to recreate the intensity of a professional cricket player auction. Built entirely with Vanilla JavaScript and styled with Tailwind CSS, it offers a seamless, lag-free experience right in your browser.
 
 Whether you are hosting a fun event with friends or just testing your management skills against the computer, this simulator handles all the calculations, timers, and logic for you.
 
-📸 Screenshots
+## 📸 Screenshots
 
 Main Dashboard
 
@@ -59,7 +59,7 @@ Management
 <img src="./assets/PlayerDatabase.png" alt="Player Database" width="90%" />
 </div>
 
-✨ Key Features
+## ✨ Key Features
 
 🎮 Gameplay
 
@@ -99,7 +99,7 @@ Auto-Save: Never lose your progress. The app saves to localStorage automatically
 
 Resume Session: One-click resume if you accidentally close the tab.
 
-🚀 Getting Started
+## 🚀 Getting Started
 
 This project requires no installation, no servers, and no build steps.
 
@@ -116,7 +116,7 @@ cd cricket-auction-simulator
 # Open index.html in your browser
 
 
-🔊 Adding Sound Effects (Optional)
+## 🔊 Adding Sound Effects (Optional)
 
 For the best immersive experience, create a folder named sounds next to your index.html and add these files:
 
@@ -132,7 +132,7 @@ crowd-loop.mp3
 
 (The app works perfectly without sounds, but they add to the atmosphere!)
 
-🔮 Roadmap
+## 🔮 Roadmap
 
 [ ] Mock Draft Mode (Snake draft style)
 
@@ -144,7 +144,7 @@ crowd-loop.mp3
 
 [ ] Animations (Confetti on big signings, gavel animations)
 
-🛠️ Built With
+## 🛠️ Built With
 
 🤝 Contributing
 
@@ -160,7 +160,7 @@ Push to the Branch (git push origin feature/AmazingFeature)
 
 Open a Pull Request
 
-📝 License
+## 📝 License
 
 Distributed under the MIT License. See LICENSE for more information.
 
