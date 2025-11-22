@@ -1,14 +1,14 @@
 <div align="center">
 
 ### 🏏 Cricket Auction Simulator
-
-Experience the High-Stakes Thrill of a T20 Auction
-
-Build your dream squad. Outbid your rivals. Manage your purse.
-
-Report Bug • Request Feature
-
 </div>
+### Experience the High-Stakes Thrill of a T20 Auction
+
+### Build your dream squad. Outbid your rivals. Manage your purse.
+
+### Report Bug • Request Feature
+
+
 
 ## 📖 About The Project
 
