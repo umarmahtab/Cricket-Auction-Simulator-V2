@@ -61,6 +61,8 @@ Management
 <img src="./assets/PlayerDatabase.png" alt="Player Database" width="90%" />
 </div>
 
+</div>
+
 ## ✨ Key Features
 
 🎮 Gameplay
