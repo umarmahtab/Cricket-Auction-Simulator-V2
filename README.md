@@ -8,8 +8,7 @@ Experience the High-Stakes Thrill of a T20 Auction
 Build your dream squad. Outbid your rivals. Manage your purse.
 
 Report Bug • Request Feature
-
-
+We already updated the V2 to a final Webapp, its in testing phase we're testing online multiplayer, the new version also has a multiple themes option andwe can export the auction data as PDF or Excel 
 
 ## 📖 About The Project
 
