@@ -110,7 +110,7 @@ This project requires no installation, no servers, and no build steps.
 
 Option 1: Direct Download
 
-Download the index.html file.
+Download the main.html file.
 
 Double-click it to open in Chrome, Firefox, Edge, or Safari.
 
@@ -118,7 +118,8 @@ Option 2: Clone Repository
 
 git clone [https://github.com/your-username/cricket-auction-simulator.git](https://github.com/your-username/cricket-auction-simulator.git)
 cd cricket-auction-simulator
-# Open index.html in your browser
+
+Open main.html in your browser
 
 
 ## 🔊 Adding Sound Effects (Optional)
