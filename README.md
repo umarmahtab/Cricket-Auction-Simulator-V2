@@ -17,7 +17,7 @@
 > Looking for the previous version?
 >
 > **Legacy Repository (V1):**  
-> [https://github.com/umarmahtab/YOUR-OLD-REPOSITORY](https://github.com/umarmahtab/Cricket-Auction-Simulator-V2)
+>(https://github.com/umarmahtab/Cricket-Auction-Simulator-V2)
 >
 > This version features a redesigned interface, improved auction flow, better performance, enhanced team management, new customization options, and several quality-of-life improvements over the original release.
 
