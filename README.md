@@ -1,175 +1,242 @@
-<div align="center">
+# 🏏 Cricket Auction Simulator
 
-### 🏏 Cricket Auction Simulator
-</div>
+> A modern browser-based IPL-style cricket auction simulator with real-time bidding, team management, player retention, analytics, and customizable auction settings.
 
-Experience the High-Stakes Thrill of a T20 Auction
+<p align="center">
 
-Build your dream squad. Outbid your rivals. Manage your purse.
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Open-success?style=for-the-badge)](YOUR_VERCEL_LINK)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](YOUR_GITHUB_LINK)
 
-Report Bug • Request Feature
+</p>
 
-### We already updated the V2 to a final Webapp, its in testing phase we're testing online multiplayer, the new version also has a multiple themes option and we can export the auction data as PDF or Excel also JSON file to reload the auction state if something happens
+---
 
-## 📖 About The Project
+## 🌐 Live Demo
 
-Cricket Auction Simulator is a feature-packed, single-page web application designed to recreate the intensity of a professional cricket player auction. Built entirely with Vanilla JavaScript and styled with Tailwind CSS, it offers a seamless, lag-free experience right in your browser.
+👉 **Play Here:**  
+**https://your-project.vercel.app**
 
-Whether you are hosting a fun event with friends or just testing your management skills against the computer, this simulator handles all the calculations, timers, and logic for you.
+---
 
-## 📸 Screenshots
+## 📖 About
 
-<div align="center">
-  
-### Main Dashboard
+Cricket Auction Simulator recreates the excitement of a professional T20 player auction directly in your browser.
 
-<div align="center">
-<img src="./assets/MainDashboard.png" alt="Main Dashboard" width="90%" />
-</div>
+Create teams, bid strategically, manage your auction purse, retain star players, track detailed auction statistics, and complete a realistic player auction experience—all without any installation.
 
-<br />
+Built entirely with HTML, CSS, JavaScript, and Tailwind CSS, the application runs smoothly on any modern browser.
 
-### Setup & Teams
+---
 
-<div align="center">
-<img src="./assets/TeamScreen.png" alt="Team Setup" width="45%" />
-<img src="./assets/Setting.png" alt="Settings Panel" width="45%" />
-</div>
+## 🚀 Version 2 (Currently in Testing)
 
-<br />
+The next major version is currently under active development.
 
-### Game Phases
+### Planned Improvements
 
-<div align="center">
-<img src="./assets/RetentionPhase.png" alt="Retention Phase" width="45%" />
-<img src="./assets/UpcomingPool.png" alt="Upcoming Player Pool" width="45%" />
-</div>
+- 🌐 Online Multiplayer Auctions
+- 🎨 Multiple UI Themes
+- 📄 Export Auction as PDF
+- 📊 Export Auction as Excel
+- 📁 Save & Load Auctions using JSON
+- ⚡ Improved Performance
+- 📱 Better Mobile Support
+- 🎭 Enhanced Animations
 
-<br />
+---
 
-### Auction Action
+# 📸 Screenshots
 
-<div align="center">
-<img src="./assets/Bid.png" alt="Live Bidding" width="45%" />
-<img src="./assets/AuctionLog.png" alt="Auction Log" width="45%" />
-</div>
+## Main Dashboard
 
-<br />
+<p align="center">
+<img src="./assets/MainDashboard.png" width="90%">
+</p>
 
-### Management
+---
 
-<div align="center">
-<img src="./assets/PlayerDatabase.png" alt="Player Database" width="90%" />
-</div>
+## Team Setup & Settings
 
-</div>
+<p align="center">
+<img src="./assets/TeamScreen.png" width="45%">
+<img src="./assets/Setting.png" width="45%">
+</p>
 
-## ✨ Key Features
+---
 
-🎮 Gameplay
+## Retention & Upcoming Players
 
-Real-time Bidding: Intense 60-second timer per player with dynamic bid increments.
+<p align="center">
+<img src="./assets/RetentionPhase.png" width="45%">
+<img src="./assets/UpcomingPool.png" width="45%">
+</p>
 
-Three-Team System: Manage bids for 3 distinct franchises simultaneously.
+---
 
-Retention Phase: Select up to 5 core players before the auction starts (with automatic purse deductions).
+## Live Auction
 
-Unsold Re-Auction: A second chance to buy players who went unsold in the first round.
+<p align="center">
+<img src="./assets/Bid.png" width="45%">
+<img src="./assets/AuctionLog.png" width="45%">
+</p>
 
-⚙️ Customization & Controls
+---
 
-Settings Panel: Configure Starting Purse, Timer Duration, and Toggle Game Phases.
+## Player Database
 
-Player Database Editor: Edit player names, base prices, and categories directly within the app.
+<p align="center">
+<img src="./assets/PlayerDatabase.png" width="90%">
+</p>
 
-Keyboard Shortcuts:
+---
 
-1, 2, 3 : Bid for Team 1, 2, or 3.
+# ✨ Features
 
-N : Next Player.
+## Auction Gameplay
 
-S : Sell Player.
+- Real-time bidding with countdown timer
+- Three franchise auction system
+- Intelligent purse management
+- Automatic bid increments
+- Unsold player re-auction
+- Player retention before auction
+- Live auction logs
+- Keyboard shortcuts
 
-📊 Dashboard & Analytics
+---
 
-Sticky Stats Bar: Always-on display of Total Spent, Players Sold, and Current Round.
+## Team Management
 
-Detailed Logs: View a history of every sold player and price.
+- Squad overview
+- Remaining purse tracking
+- Sold player history
+- Category-wise player management
+- Real-time statistics
 
-Squad Views: Visual breakdown of every team's current squad and remaining budget.
+---
 
-💾 Persistence
+## Customization
 
-Auto-Save: Never lose your progress. The app saves to localStorage automatically.
+- Adjustable auction timer
+- Configurable starting purse
+- Toggle auction phases
+- Built-in player database editor
 
-Resume Session: One-click resume if you accidentally close the tab.
+---
 
-## 🚀 Getting Started
+## Data Management
 
-This project requires no installation, no servers, and no build steps.
+- Auto-save using Local Storage
+- Resume previous auction
+- Import / Export support (V2)
 
-Option 1: Direct Download
+---
 
-Download the main.html file.
+# ⌨️ Keyboard Shortcuts
 
-Double-click it to open in Chrome, Firefox, Edge, or Safari.
+| Key | Action |
+|------|---------|
+| 1 | Bid for Team 1 |
+| 2 | Bid for Team 2 |
+| 3 | Bid for Team 3 |
+| N | Next Player |
+| S | Sell Player |
 
-Option 2: Clone Repository
+---
 
-git clone [https://github.com/your-username/cricket-auction-simulator.git](https://github.com/your-username/cricket-auction-simulator.git)
+# 🛠 Built With
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- Tailwind CSS
+
+---
+
+# 🚀 Getting Started
+
+Clone the repository
+
+```bash
+git clone https://github.com/umarmahtab/cricket-auction-simulator.git
+```
+
+Navigate into the project
+
+```bash
 cd cricket-auction-simulator
+```
 
-Open main.html in your browser
+Open
 
+```text
+index.html
+```
 
-## 🔊 Adding Sound Effects (Optional)
+in your browser.
 
-For the best immersive experience, create a folder named sounds next to your index.html and add these files:
+No installation or build tools are required.
 
+---
+
+# 🔊 Optional Sound Effects
+
+Create a folder named
+
+```text
+sounds/
+```
+
+and add
+
+```
 bid.wav
-
 sold.wav
-
 unsold.wav
-
 tension.wav
-
 crowd-loop.mp3
+```
 
-(The app works perfectly without sounds, but they add to the atmosphere!)
+The simulator works perfectly without these files, but they enhance the overall experience.
 
-## 🔮 Roadmap
+---
 
-[ ] Mock Draft Mode (Snake draft style)
+# 🗺 Roadmap
 
-[ ] Complex Squad Rules (Max overseas players, Min uncapped players)
+- [x] Real-Time Auction Engine
+- [x] Player Retention
+- [x] Auction Logs
+- [x] Local Save System
+- [ ] Online Multiplayer
+- [ ] PDF Export
+- [ ] Excel Export
+- [ ] JSON Save & Load
+- [ ] Multiple Themes
+- [ ] Team Logos
+- [ ] Mobile Optimizations
 
-[ ] Expanded Database (Import/Export CSV support)
+---
 
-[ ] Team Branding (Upload custom logos)
+# 🤝 Contributing
 
-[ ] Animations (Confetti on big signings, gavel animations)
+Contributions, ideas, feature requests, and bug reports are always welcome.
 
-## 🛠️ Built With
+Feel free to fork the repository and submit a Pull Request.
 
-🤝 Contributing
+---
 
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+# 📄 License
 
-Fork the Project
+Distributed under the MIT License.
 
-Create a Feature Branch (git checkout -b feature/AmazingFeature)
+---
 
-Commit your Changes (git commit -m 'Add some AmazingFeature')
+## 👨‍💻 Author
 
-Push to the Branch (git push origin feature/AmazingFeature)
+**Umar Mahtab**
 
-Open a Pull Request
+GitHub: https://github.com/umarmahtab
 
-## 📝 License
+---
 
-Distributed under the MIT License. See LICENSE for more information.
-
-<div align="center">
-<p>Created with ❤️ by <a href="https://github.com/umarmahtab">Umar Mahtab</a></p>
-</div>
+⭐ If you enjoyed this project, consider giving it a Star!
